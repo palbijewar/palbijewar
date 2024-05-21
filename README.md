@@ -2,35 +2,13 @@
 
 Welcome to my GitHub! I'm a passionate software developer specializing in the MERN stack, AWS, TypeScript, WebSockets, Redis, SQL, and PostgreSQL. With over 2 years of hands-on experience, I thrive on building scalable and efficient solutions that solve real-world problems. 
 
-## 🔧 Technologies & Tools
-
-- **Frontend**: React.js, Redux, HTML5, CSS3, SASS
-- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL
-- **Cloud & Deployment**: AWS (EC2, S3, Lambda, API Gateway), Docker, Kubernetes, Heroku
-- **DevOps**: Git, GitHub Actions
-- **Other**: TypeScript, WebSockets, Redis, GraphQL
-
 ## 🚀 What I Do
 
-I specialize in crafting robust and performant web applications with a keen eye on user experience and scalability. From designing elegant UIs to architecting efficient backend systems, I'm dedicated to delivering top-notch solutions that exceed expectations.
+I am working at Bhavitha Tech Solutions and specialize in crafting robust and performant web applications with a keen eye on user experience and scalability. From designing elegant UIs to architecting efficient backend systems, I'm dedicated to delivering top-notch solutions that exceed expectations.
 
 ## 🌱 What I'm Learning
 
 I'm always eager to stay updated with the latest technologies and industry trends. Currently, I'm diving deeper into microservices architecture, serverless computing, and machine learning to broaden my skill set and tackle more diverse challenges.
-
-## 💼 Let's Connect!
-
-I'm open to collaboration opportunities, whether it's for a new project, a tech discussion, or just to grab a virtual coffee. Feel free to reach out to me via [LinkedIn](#) or [Twitter](#) - I'd love to hear from you!
-
-## 📫 Get in Touch
-
-- LinkedIn: [Certainly! Here's a vibrant GitHub introduction README for you:
-
----
-
-# Hey there, I'm [Your Name]! 👋
-
-Welcome to my GitHub! I'm a passionate software developer specializing in the MERN stack, AWS, TypeScript, WebSockets, Redis, SQL, and PostgreSQL. With over 2 years of hands-on experience, I thrive on building scalable and efficient solutions that solve real-world problems. 
 
 # 💻 Tech Stack:
 
@@ -76,18 +54,6 @@ Welcome to my GitHub! I'm a passionate software developer specializing in the ME
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#)
 [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](#)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)](#)
-
-## 🚀 What I Do
-
-I specialize in crafting robust and performant web applications with a keen eye on user experience and scalability. From designing elegant UIs to architecting efficient backend systems, I'm dedicated to delivering top-notch solutions that exceed expectations.
-
-## 🌱 What I'm Learning
-
-I'm always eager to stay updated with the latest technologies and industry trends. Currently, I'm diving deeper into microservices architecture, serverless computing, and machine learning to broaden my skill set and tackle more diverse challenges.
-
-## 💼 Let's Connect!
-
-I'm open to collaboration opportunities, whether it's for a new project, a tech discussion, or just to grab a virtual coffee. Feel free to reach out to me via [LinkedIn](#)  - I'd love to hear from you!
 
 ## 📫 Get in Touch
 
