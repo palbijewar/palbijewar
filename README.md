@@ -1,7 +1,3 @@
-Certainly! Here's a vibrant GitHub introduction README for you:
-
----
-
 # Hey there, I'm Pal Bijewar! 👋
 
 Welcome to my GitHub! I'm a passionate software developer specializing in the MERN stack, AWS, TypeScript, WebSockets, Redis, SQL, and PostgreSQL. With over 2 years of hands-on experience, I thrive on building scalable and efficient solutions that solve real-world problems. 
