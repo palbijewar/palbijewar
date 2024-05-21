@@ -60,10 +60,10 @@ I'm always eager to stay updated with the latest technologies and industry trend
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=palbijewar&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-[![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=palbijewar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
